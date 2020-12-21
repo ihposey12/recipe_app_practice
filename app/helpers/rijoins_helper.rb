@@ -1,0 +1,2 @@
+module RijoinsHelper
+end
